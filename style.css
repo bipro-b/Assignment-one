@@ -1,3 +1,39 @@
+.nav-bar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    background-image: linear-gradient(rgb(31, 37, 31),rgb(173, 151, 108));
+    padding: 10px;
+}
+.active{
+    color: green;
+
+}
+.nav-item a{
+
+    padding: 5px;
+    font-size: 2vw;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(37, 58, 58),cyan);
+    outline: rgb(182, 26, 26);
+    border-radius: 5px;
+    
+}
+.nav-item input{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 10%;
+    font-size: 17px;
+}
+.nav-item a:hover{
+    color: green;
+}
+
 
 .container-flex{
     display: flex;
