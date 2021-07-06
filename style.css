@@ -28,7 +28,7 @@
     border: none;
     margin-top: 8px;
     margin-right: 10%;
-    font-size: 17px;
+    font-size: 1vw;
 }
 .nav-item a:hover{
     color: green;
