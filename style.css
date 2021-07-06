@@ -38,6 +38,10 @@ h2{
     font-size: 3vw;
     font-family: 'Poppins', sans-serif;
 }
+h3{
+    font-size: 3vw;
+    font-family: 'Poppins', sans-serif;
+}
 .text-color{
     color: chocolate;
 }
@@ -75,7 +79,7 @@ h2{
     padding-left: 15px;
     padding-right: 15px;
     border-radius: 15px;
-    box-shadow: 40px 50px 60px rgb(56, 63, 56);
+    box-shadow: 10px 30px 50px rgb(83, 196, 83);
 }
 .recipie-name img{
  height: auto;
